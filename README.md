@@ -1,5 +1,5 @@
 
-# FileMonitorX
+# FileMonitorX [Created using Claude]
 
 FileMonitorX is a Windows service that monitors a specified directory for new files and automatically uploads them to a webhook endpoint. It features a system tray interface and robust file handling capabilities.
 
