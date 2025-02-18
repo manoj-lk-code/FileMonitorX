@@ -1,0 +1,14 @@
+monitoring:
+  path: "C:\\Users\\manoj\\MAIN\\downloads"
+  webhook_url: "WEBHOOK_URL_HERE"
+  ignore_extensions:
+    - .tmp
+    - .temp
+    - .log
+    - .part
+    - .crdownload
+  ignore_folders:
+    - temp
+    - cache
+    - .tmp
+  recursive: false
